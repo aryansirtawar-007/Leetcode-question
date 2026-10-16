@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0283-move-zeroes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0344-reverse-string) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -69,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0001-two-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
