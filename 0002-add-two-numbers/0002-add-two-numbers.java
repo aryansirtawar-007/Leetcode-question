@@ -18,33 +18,23 @@ class Solution {
 
        
           int cary=0;
-          while(temp1!=null || temp2!=null || cary!=0){
-            int x;
-            if(temp1!=null){
-                x=temp1.val;
+          while(l1!=null || l2!=null || cary!=0){
+            int x = (l1 != null) ? l1.val : 0;
+            int y = (l2 != null) ? l2.val : 0;
 
-            }else{
-                x=0;
-            }
-            int  y;
-            if(temp2!=null){
-                y=temp2.val;
-            }else{
-                y=0;
-
-            }
+            
             int sum=x+y+cary;
             int digit=sum%10;
             cary=sum/10;
             ListNode newNode=new ListNode(digit);
             temp.next=newNode;
             temp=temp.next;
-            if(temp1!=null){
-                temp1=temp1.next;
+            if(l1!=null){
+                l1=l1.next;
             }
 
-            if(temp2!=null){
-                temp2=temp2.next;
+            if(l2!=null){
+                l2=l2.next;
             }
           }
 
