@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
@@ -114,9 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
