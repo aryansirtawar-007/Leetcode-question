@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0002-add-two-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryansirtawar-007/Leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
